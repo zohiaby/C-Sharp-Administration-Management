@@ -1,0 +1,15 @@
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\bin\Debug\DB Mini Project C_Sharp.exe.config
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\bin\Debug\DB Mini Project C_Sharp.exe
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\bin\Debug\DB Mini Project C_Sharp.pdb
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB Mini Project C_Sharp.csproj.AssemblyReference.cache
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Add_Student.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Add_Teacher.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Main.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Properties.Resources.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB Mini Project C_Sharp.csproj.GenerateResource.cache
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB Mini Project C_Sharp.csproj.CoreCompileInputs.cache
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB Mini Project C_Sharp.exe
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB Mini Project C_Sharp.pdb
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Edit_Teacher.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Edit_Student.resources
+D:\Course\Symister 4\DB Lab\DB Mini Project C_Sharp\DB Mini Project C_Sharp\obj\Debug\DB_Mini_Project_C_Sharp.Display.resources
